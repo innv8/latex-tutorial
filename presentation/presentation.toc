@@ -1,4 +1,0 @@
-\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
-\beamer@sectionintoc {2}{Spider-Man}{4}{0}{2}
-\beamer@sectionintoc {3}{Superman}{7}{0}{3}
-\beamer@sectionintoc {5}{Thank You.}{11}{0}{4}

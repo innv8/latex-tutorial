@@ -1,7 +1,7 @@
 .DS_Store
 paper/superhero-physics.*
-!!paper/superhero-physics.pdf
-!!paper/superhero-physics.tex
+!paper/superhero-physics.pdf
+!paper/superhero-physics.tex
 presentation/presentation*
-!!presentation/presentation.pdf
-!!presentation/presentation.tex
+!presentation/presentation.pdf
+!presentation/presentation.tex
